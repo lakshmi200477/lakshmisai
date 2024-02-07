@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An ordered HTML list</h2>
+<h3>ELECTRONIC HOME APPLIANCES</h3>
+
+<ol>
+  <li>Television</li>
+  <li>Micro oven</li>
+  <li>Refrigerator</li>
+  <li>Fans</li>
+  <li>washing machine</li>
+  <li>Lights</li>
+  <li>Vaccum cleaner</li>
+  <li>Mixer</li>
+  <li>Grinder</li>
+  <li>Alexa</li>
+</ol>  
+
+
+<h2>An unordered HTML list</h2>
+<h3>ELECTRONIC HOME APPLIANCES</h3>
+
+<ul>
+    <li>Television</li>
+    <li>Micro oven</li>
+    <li>Refrigerator</li>
+    <li>Fans</li>
+    <li>washing machine</li>
+    <li>Lights</li>
+    <li>Vaccum cleaner</li>
+    <li>Mixer</li>
+    <li>Grinder</li>
+    <li>Alexa</li>
+</ul>  
+
+</body>
+</html>
