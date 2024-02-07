@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>My Friends </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>S.NO</th>
+    <th>REGD NO</th>
+    <th>NAME</th>
+    <th>ADDRESS</th>
+     <th>PHONE NO</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>22K61A1233</td>
+    <td>Lakshmi</td>
+    <td>Vegavaram</td>
+    <td>6301627336</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>22K61A1249</td>
+    <td>Ramya</td>
+    <td>Marteru</td>
+    <td>9640298055</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>22K61A1228</td>
+    <td>Harika</td>
+    <td>Kadimpadu</td>
+    <td>7386966346</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>22K61A1219</td>
+    <td>Teja</td>
+    <td>Tadepalligudem</td>
+    <td>9392850066</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>22K61A1254</td>
+    <td>Thanu</td>
+    <td>Vizag</td>
+    <td>8301627336</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>22K61A1234</td>
+    <td>Isha</td>
+    <td>Guntur</td>
+    <td>9948763746</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>22K61A1217</td>
+    <td>Vyshu</td>
+    <td>Rojavolu</td>
+    <td>9441092234</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>22K61A1207</td>
+    <td>mounika</td>
+    <td>kerala</td>
+    <td>9652014851</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>22K61A1222</td>
+    <td>lucky</td>
+    <td>Eluru</td>
+    <td>7981268855</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>22K61A1223</td>
+    <td>samhi</td>
+    <td>chennai</td>
+    <td>9603524935</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
